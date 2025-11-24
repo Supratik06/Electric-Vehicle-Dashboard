@@ -7,3 +7,7 @@ This dashboard integrates multiple datasets to present key indicators such as ve
 Built using modern data visualization tools, the dashboard focuses on clarity, usability, and meaningful insights. Whether you're a data analyst, sustainability researcher, or EV enthusiast, this dashboard serves as a valuable resource for exploring the landscape of electric mobility.
 
 The project emphasizes clean design, modular code structure, and scalable visualization techniques—making it easy for contributors to extend features, update datasets, or adapt the dashboard for new markets. By offering real-time insights and interactive components, the Electric Vehicle Dashboard showcases the power of analytics in driving sustainable transportation initiatives.
+
+
+To access the dashboard go to this below url:
+        https://drive.google.com/drive/folders/1uB26y2INm2qW4hY8HfNjCKJUIpHdXeI0
